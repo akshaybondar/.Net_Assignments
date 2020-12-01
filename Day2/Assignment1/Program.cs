@@ -92,7 +92,7 @@ namespace Assignment1
         }
 
         //Methods
-        decimal getNetSalary()
+        public decimal getNetSalary()
         {
             decimal netsal;
             netsal = basic + 4000 + 1000;//BASIC+DA+TA Fixed
