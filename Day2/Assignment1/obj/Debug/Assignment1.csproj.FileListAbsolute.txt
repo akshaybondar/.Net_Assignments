@@ -5,3 +5,10 @@ C:\.NetModule\Day2\Assignment1\bin\Debug\Assignment1.exe
 C:\.NetModule\Day2\Assignment1\bin\Debug\Assignment1.pdb
 C:\.NetModule\Day2\Assignment1\obj\Debug\Assignment1.exe
 C:\.NetModule\Day2\Assignment1\obj\Debug\Assignment1.pdb
+C:\.NetModule\.Net_Assignments\Day2\Assignment1\bin\Debug\Assignment1.exe.config
+C:\.NetModule\.Net_Assignments\Day2\Assignment1\bin\Debug\Assignment1.exe
+C:\.NetModule\.Net_Assignments\Day2\Assignment1\bin\Debug\Assignment1.pdb
+C:\.NetModule\.Net_Assignments\Day2\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+C:\.NetModule\.Net_Assignments\Day2\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\.NetModule\.Net_Assignments\Day2\Assignment1\obj\Debug\Assignment1.exe
+C:\.NetModule\.Net_Assignments\Day2\Assignment1\obj\Debug\Assignment1.pdb
