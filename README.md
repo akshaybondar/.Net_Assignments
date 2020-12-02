@@ -101,7 +101,7 @@ CEO : Employee
 
 NOTE : 
 
-	Overloaded constructors in all classes calling their base class 	constructor 
+	Overloaded constructors in all classes calling their base class constructor 
 
 	All classes must implement IDbFunctions interface
 
