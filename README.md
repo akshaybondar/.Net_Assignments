@@ -71,7 +71,6 @@ public Employee(string Name="noname", decimal Basic=10000, short DeptNo=10)
 	this.Name = Name;
 	this.Basic = Basic;
 	this.DeptNo = DeptNo;
-
 }
 
 Main()
@@ -79,4 +78,5 @@ Main()
 	Employee o = new Employee();
 	//o.EmpNo = 123;
 }
+
 --------------------------------------------------------
