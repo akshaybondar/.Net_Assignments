@@ -152,7 +152,10 @@ namespace Assignment2
         {
             get
             {
-                return basic;
+                if (value >= 750000)
+                    basic = value;
+                else
+                    Console.WriteLine("General Manager Must have Salary grater than equal to 750000");
             }
             set
             {
