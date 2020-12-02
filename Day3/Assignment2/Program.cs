@@ -83,7 +83,10 @@ namespace Assignment2
         {
             set
             {
-                basic = value;
+                if(value>25000)
+                    basic = value;
+                else
+                    Console.WriteLine("Manager Must have Salary grater than 25000");
             }
             get
             {
@@ -123,6 +126,20 @@ namespace Assignment2
     }
     public class GeneralManager : Manager
     {
+        public override decimal Basic
+        {
+            set
+            {
+                if (value >= 50000)
+                    basic = value;
+                else
+                    Console.WriteLine("General Manager Must have Salary grater than equal to 50000");
+            }
+            get
+            {
+                return basic;
+            }
+        }
         public string Perks { set; get; }
         public GeneralManager(string perks, string designation, string name, decimal basic, short deptno):base(designation,name,basic,deptno)
         {
