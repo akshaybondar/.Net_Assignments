@@ -33,15 +33,18 @@ third object should automatically get EmpNo 3
 ...and so on...
 
 Test Cases
-Employee o1 = new Employee()
-Employee o2 = new Employee()
-Employee o3 = new Employee()
-cw(o1.EmpNo)
-cw(o2.EmpNo)
-cw(o3.EmpNo)
-cw(o3.EmpNo)
-cw(o2.EmpNo)
-cw(o1.EmpNo)
+
+Employee o1 = new Employee();
+Employee o2 = new Employee();
+Employee o3 = new Employee();
+cw(o1.EmpNo);
+cw(o2.EmpNo);
+cw(o3.EmpNo);
+cw(o3.EmpNo);
+cw(o2.EmpNo);
+cw(o1.EmpNo);
+
+
 -------------------------------------------------------------------------------------------------
 
 # Day3_Assignment 2
