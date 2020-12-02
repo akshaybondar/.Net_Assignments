@@ -100,6 +100,7 @@ CEO : Employee
       Make CalNetSalary() a sealed method
 
 NOTE : 
+
 	Overloaded constructors in all classes calling their base class 	constructor 
 
 	All classes must implement IDbFunctions interface
