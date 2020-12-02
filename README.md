@@ -99,13 +99,14 @@ CEO : Employee
 
       Make CalNetSalary() a sealed method
 
-NOTE : Overloaded constructors in all classes calling their base class constructor 
+NOTE : 
+	Overloaded constructors in all classes calling their base class 	constructor 
 
-All classes must implement IDbFunctions interface
+	All classes must implement IDbFunctions interface
 
-All classes to override the abstract members defined in the base class(Employee). 
+	All classes to override the abstract members defined in the base class(Employee). 
 
-Basic property to have different validation in different classes.
+	Basic property to have different validation in different classes.
 
 
 --------------------------------------------------------
