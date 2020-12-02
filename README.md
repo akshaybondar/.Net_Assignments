@@ -1,6 +1,6 @@
 # .Net_Assignments
 
-# Day2_Assignment 1
+# Day2_Assignment 1(Employee)
 
 Create a Class Employee with te following specifications
 
@@ -46,33 +46,6 @@ cw(o1.EmpNo);
 
 # Day3_Assignment 2
 
-private static int lastEmpNo = 0;
 
-private int empNo;
-public int EmpNo
-{
-	get {return empNo;}
-	private set {empNo = value;}   /// Property Accessor
-}
-// 1. Only 1 of get/set can be given an accessor
-// 2. You can reduce access, not increase it
-/// public
-/// protected internal
-/// protected / internal
-/// private
-
-
-public Employee(string Name="noname", decimal Basic=10000, short DeptNo=10)
-{
-	empNo = ++lastEmpNo;
-	this.Name = Name;
-	this.Basic = Basic;
-	this.DeptNo = DeptNo;
-}
-Main()
-{
-	Employee o = new Employee();
-	//o.EmpNo = 123;
-}
 
 --------------------------------------------------------
