@@ -20,7 +20,7 @@ namespace Assignment2
         private string name;
         private int empno;
         private short deptno;
-        public decimal basic;
+        protected decimal basic;
         private static int auto;
 
         public string Name
