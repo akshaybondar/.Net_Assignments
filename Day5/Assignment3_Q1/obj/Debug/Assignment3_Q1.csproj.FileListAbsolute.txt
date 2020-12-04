@@ -1,0 +1,7 @@
+C:\.NetModule\.Net_Assignments\Day5\Assignment3_Q1\bin\Debug\Assignment3_Q1.exe.config
+C:\.NetModule\.Net_Assignments\Day5\Assignment3_Q1\bin\Debug\Assignment3_Q1.exe
+C:\.NetModule\.Net_Assignments\Day5\Assignment3_Q1\bin\Debug\Assignment3_Q1.pdb
+C:\.NetModule\.Net_Assignments\Day5\Assignment3_Q1\obj\Debug\Assignment3_Q1.csprojAssemblyReference.cache
+C:\.NetModule\.Net_Assignments\Day5\Assignment3_Q1\obj\Debug\Assignment3_Q1.csproj.CoreCompileInputs.cache
+C:\.NetModule\.Net_Assignments\Day5\Assignment3_Q1\obj\Debug\Assignment3_Q1.exe
+C:\.NetModule\.Net_Assignments\Day5\Assignment3_Q1\obj\Debug\Assignment3_Q1.pdb
