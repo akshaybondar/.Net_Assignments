@@ -117,7 +117,9 @@ NOTE :
 1. Create an array of Employee class objects
 
     Accept details for all Employees
+
     Display the Employee with highest Salary
+
     Accept EmpNo to be searched. Display all details for that employee.
 
 2. CDAC has certain number of batches. each batch has certain number of students
@@ -135,7 +137,7 @@ NOTE :
 
 Create a parameterized constructor.
 
-Create an array to accept details for 5 students
+Create an array to accept details for 5 students.
 
 --------------------------------------------------------
 
