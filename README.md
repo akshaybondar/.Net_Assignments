@@ -64,7 +64,7 @@ Test Cases
 
 -------------------------------------------------------------------------------------------------
 
-# Day3_Assignment 2(Inheritance Assign)
+# Day3_Assignment 2(Inheritance)
 Create the following classes.
 
 Employee
@@ -112,6 +112,8 @@ NOTE :
 
 --------------------------------------------------------
 
+# Day5_Assignment 3(Array)
+
 1. Create an array of Employee class objects
 
     Accept details for all Employees
@@ -135,5 +137,5 @@ Create a parameterized constructor.
 
 Create an array to accept details for 5 students
 
-
+--------------------------------------------------------
 
