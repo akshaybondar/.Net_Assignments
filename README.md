@@ -114,7 +114,7 @@ NOTE :
 
 # Day5_Assignment 3(Array)
 
-1. Create an array of Employee class objects
+1.Create an array of Employee class objects
 
     Accept details for all Employees
 
@@ -122,22 +122,52 @@ NOTE :
 
     Accept EmpNo to be searched. Display all details for that employee.
 
-2. CDAC has certain number of batches. each batch has certain number of students
+2.CDAC has certain number of batches. each batch has certain number of students
 
 	accept number of batches from the user. for each batch accept number of students.
-    create an array to store mark for each student. 
-    accept the marks.
-    display the marks.
+    
+	create an array to store mark for each student. 
+    
+	accept the marks.
+    
+	display the marks.
 
-3. Create a struct Student with the following properties. Put in appropriate validations.
+3.Create a struct Student with the following properties. Put in appropriate validations.
 
 	string Name
+	
 	int RollNo
+	
 	decimal Marks
-
-Create a parameterized constructor.
-
-Create an array to accept details for 5 students.
+	
+	Create a parameterized constructor.
+	
+	Create an array to accept details for 5 students.
 
 --------------------------------------------------------
 
+# Day6_Assignment 4(Collection)
+
+1.Declare a dictionary based collection of Employee class objects 
+        
+	Accept details for Employees  in a loop. Stop accepting based on user input (yes/no)'
+	
+	Display the Employee with highest Salary
+	
+	Accept EmpNo to be searched. Display all details for that employee.
+	
+	Display details for the Nth Employee where N is a number accepted from the user.
+
+
+2.Create an array of Employee objects. 
+	
+	Convert it to a List<Employee>.  
+
+	Display all the Employees in the list.
+
+3.Create a List<Employee>. 
+
+	Convert it to an array. Display all the array elements.
+
+
+--------------------------------------------------------
