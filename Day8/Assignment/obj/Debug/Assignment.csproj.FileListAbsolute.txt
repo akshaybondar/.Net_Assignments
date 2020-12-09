@@ -1,0 +1,7 @@
+C:\.NetModule\.Net_Assignments\Day8\Assignment\bin\Debug\Assignment.exe.config
+C:\.NetModule\.Net_Assignments\Day8\Assignment\bin\Debug\Assignment.exe
+C:\.NetModule\.Net_Assignments\Day8\Assignment\bin\Debug\Assignment.pdb
+C:\.NetModule\.Net_Assignments\Day8\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\.NetModule\.Net_Assignments\Day8\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\.NetModule\.Net_Assignments\Day8\Assignment\obj\Debug\Assignment.exe
+C:\.NetModule\.Net_Assignments\Day8\Assignment\obj\Debug\Assignment.pdb
