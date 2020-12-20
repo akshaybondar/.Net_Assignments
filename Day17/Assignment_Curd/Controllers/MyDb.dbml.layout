@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="MyDb">
+  <DataContextMoniker Name="/MyDbDataContext" />
+  <nestedChildShapes>
+    <classShape Id="c91e8c27-9fe6-4728-a4de-43ab2956e67b" absoluteBounds="5.5, 1.75, 2, 1.9631982421875">
+      <DataClassMoniker Name="/MyDbDataContext/UserReg" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e0d64d35-5afa-4f7c-a408-4c7de22a862e" absoluteBounds="5.515, 2.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e29f1079-e63e-4fc8-84be-867229dba6c6" absoluteBounds="2.375, 2.625, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/MyDbDataContext/City" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fead8e17-490f-4e68-a6b7-c19d32593e59" absoluteBounds="2.39, 3.085, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.375 : 3.16909912109375); (5.5 : 3.16909912109375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MyDbDataContext/City/City_UserReg" />
+      <nodes>
+        <classShapeMoniker Id="e29f1079-e63e-4fc8-84be-867229dba6c6" />
+        <classShapeMoniker Id="c91e8c27-9fe6-4728-a4de-43ab2956e67b" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

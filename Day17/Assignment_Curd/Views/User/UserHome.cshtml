@@ -1,0 +1,40 @@
+﻿@model Assignment_Curd.Models.User
+
+@{
+    ViewBag.Title = "UserHome";
+}
+
+<h2>UserHome</h2>
+@Html.Partial("NavBar")
+<div>
+    <h4>User</h4>
+    <hr />
+    <dl class="dl-horizontal">
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UserName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UserFullName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserFullName)
+        </dd>
+
+        @*<input action="UserLogin" class="btn btn-danger" role="button" value="Logout"/>*@
+        <a href="UserLogin" class="btn btn-danger" role="button">Logout</a>
+
+        
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Update", "Update", new {  id = Session["LoginInfo"].ToString()}) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
